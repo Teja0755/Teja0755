@@ -10,35 +10,21 @@ I now strive to implement my skillsets to real world challenges, business settin
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project Links        |
 |-----------------------------------------------|----------------------------|
 | Data Analytics/Science                        | <a href="https://google.com">Detection Lab</a>|
-| Product Management                            | <a href="https://google.com">Detection Lab</a>|
-| Finance                                       | SOC Automation Lab|
-
+| Product Management/Analytics                  | <a href="https://google.com">Detection Lab</a>|
+| Financial Analytics                           | SOC Automation Lab|
+| Business Intelligence                         | 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+Languages:      Python (Pandas, NumPy, Matplotlib, ggplot, Scikit-learn), TensorFlow, SQL (Oracle, MySQL, SSMS), R, STATA
+DA/ML:          Data Modelling, EDA, PCA, A/B analysis, Predictive Analytics, CNN, ANOVA, hypothesis testing,
+                Optimization, Decision Trees, AI & ML Algorithms, Hadoop, Clustering, Logistic Regression.         
+BI/data Viz:    ETL, Snowflake, Airflow, Azure, AWS, Spark, Pipelines, Tableau, Power BI, DAX, Google Analytics, MS Excel
+Project Management: Agile, SDLC, Scrum, Kanban, Jira, Confluence, Service Now, Monday.com, Azure DevOps, MS             
+                    Project, Visio, Lucid charts, Devops, Google Docs                                                                                     
+Product Design:     Figma, Miro, Canva, Adobe XD 
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -50,6 +36,4 @@ I now strive to implement my skillsets to real world challenges, business settin
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
