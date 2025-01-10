@@ -21,11 +21,10 @@ I now strive to implement my skillsets to real world challenges, business settin
 | Category            | Tools                             |
 |---------------------|-----------------------------------|
 | Languages         | Python (Pandas, NumPy, Matplotlib, ggplot, Scikit-learn), TensorFlow, SQL (Oracle, MySQL, SSMS), R, STATA         |
-| Analytics/ML      | Data Modelling, EDA, PCA, A/B analysis, Predictive Analytics, CNN, ANOVA, hypothesis testing, Optimization, Decision Trees, AI & ML Algorithms, Hadoop, Clustering, Logistic 
-                                         Regression      |
-| BI/data Viz        | ETL, Snowflake, Airflow, Azure, AWS, Spark, Pipelines, Tableau, Power BI, DAX, Google Analytics, MS Excel      |
-| Project Management        | Agile, SDLC, Scrum, Kanban, Jira, Confluence, Service Now, Monday.com, Azure DevOps, MS Project, Visio, Lucid charts, Devops, Google Docs      |
-| Product Design     | Figma, Miro, Canva, Adobe XD        |
+| Analytics/ML      | Data Modelling, EDA, PCA, A/B analysis, Predictive Analytics, CNN, ANOVA, hypothesis testing, Optimization, Decision Trees, AI & ML Algorithms, Hadoop, Clustering, Logistic Regression      |
+| BI/data Viz       | ETL, Snowflake, Airflow, Azure, AWS, Spark, Pipelines, Tableau, Power BI, DAX, Google Analytics, MS Excel      |
+| Project Management | Agile, SDLC, Scrum, Kanban, Jira, Confluence, Service Now, Monday.com, Azure DevOps, MS Project, Visio, Lucid charts, Devops, Google Docs      |
+| Product Design     | Figma, Miro, Canva, Adobe XD    |
 
 
 ## Certifications
