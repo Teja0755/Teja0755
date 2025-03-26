@@ -12,25 +12,25 @@ I now strive to implement my skillsets to real world challenges, business settin
 
 | Skill                                         | Associated Project Links        |
 |-----------------------------------------------|----------------------------|
-| Data Analytics/Science                        | <a href="https://google.com">Detection Lab</a>|
-| Product Management/Analytics                  | <a href="https://google.com">Detection Lab</a>|
-| Financial Analytics                           | SOC Automation Lab|
+| Data Engineering/Science                      | <a href="https://google.com">Detection Lab</a>|
 | Business Intelligence                         | 
 
 ## Tools
-| Category            | Tools                             |
-|---------------------|-----------------------------------|
-| Languages         | Python (Pandas, NumPy, Matplotlib, ggplot, Scikit-learn), TensorFlow, SQL (Oracle, MySQL, SSMS), R, STATA         |
-| Analytics/ML      | Data Modelling, EDA, PCA, A/B analysis, Predictive Analytics, CNN, ANOVA, hypothesis testing, Optimization, Decision Trees, AI & ML Algorithms, Hadoop, Clustering, Logistic Regression      |
-| BI/data Viz       | ETL, Snowflake, Airflow, Azure, AWS, Spark, Pipelines, Tableau, Power BI, DAX, Google Analytics, MS Excel      |
-| Project Management | Agile, SDLC, Scrum, Kanban, Jira, Confluence, Service Now, Monday.com, Azure DevOps, MS Project, Visio, Lucid charts, Devops, Google Docs      |
-| Product Design     | Figma, Miro, Canva, Adobe XD    |
+| Category           | Tools                                                                                                                |
+|-------------------|------------------------------------------------------------------------------------------------------------------------|
+| Languages          | Python (Pandas, PySpark, SQLAlchemy, TensorFlow, Scikit-learn), SQL (MySQL, PostgreSQL, Oracle)                      |
+| Data Engineering   | ETL/ELT, DAGs, CI/CD, DBT, Datamesh, Airflow, Bash, Terraform, GIT                                                    |
+| BIG DATA           | Apache Spark, Hadoop, Kafka, Databricks, Snowflake, Delta Lake, MongoDB                                               |
+| CLOUD              | AWS (Glue, Redshift, S3, Lambda, EC2, Kinesis, CloudFormation, IAM, Cost Explorer),                                   |
+|                    | GCP (BigQuery, Dataflow, Cloud Composer (Airflow), Pub/Sub, Cloud Storage (GCS), Cloud Functions, IAM)               |
+| BI                 | Tableau, Power BI, Looker, MS Excel, Metabase, Google Analytics, Data Warehousing, Data Modeling, Data Lake Architecture |
+| Project Management | Agile, Scrum, Jira, Confluence, ServiceNow, Monday.com, MS Project, Visio, Lucid charts, Google Docs                  |
+
 
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
