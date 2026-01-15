@@ -1,7 +1,7 @@
 # Hello, I'm Sri Teja Adimulam
 <a href="https://www.linkedin.com/in/sriadimulam/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Business analytics graduate with a profound interest in Technology, Analytics & Product, with a strong drive to solving complex problems.
+I am a recent Business analytics graduate with a profound interest in AI driven solutions, Analytics & Product, with a strong drive to solving complex problems.
 
 ## Objective
 My journey as a graduate student exposed me to diverse career tracks in IT and Analytics, including BI, Data Engineering, Product Management, and Financial Analytics.
